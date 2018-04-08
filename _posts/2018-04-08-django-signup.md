@@ -83,7 +83,6 @@ tags : django
 
   ```html
   <form action="" method="post">
-      {% csrf_token %}
       <table>
           {{ form.as_table}}        
       </table>

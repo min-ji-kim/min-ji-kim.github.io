@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [django] 회원가입 폼 만들기
+title: 회원가입 폼 만들기
 categories : TIL
 tags : django
 ---

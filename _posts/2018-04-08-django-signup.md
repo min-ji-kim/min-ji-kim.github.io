@@ -8,7 +8,7 @@ tags : django
 
 ## [django] 회원가입 폼 만들기
 
->[djangogirls 튜토리얼][https://tutorial.djangogirls.org/ko/]을 따라서 블로그를 만들면 admin 계정으로만 로그인 할 수 있다.
+>[djangogirls 튜토리얼](https://tutorial.djangogirls.org/ko/)을 따라서 블로그를 만들면 admin 계정으로만 로그인 할 수 있다.
 >
 >일반 사용자들도 이용할 수 있도록 회원가입 폼을 만들어 보도록 한다.
 

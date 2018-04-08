@@ -2,7 +2,7 @@
 title: Minimi LAB
 tagline: 'Minimi LAB'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
-baseurl: '/min-ji-kim.github.io'
+baseurl: ''
 url: 'https://min-ji-kim.github.io/'
 logo: '/public/logo.png'
 

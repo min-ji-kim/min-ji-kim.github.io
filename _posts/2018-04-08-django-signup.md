@@ -84,7 +84,7 @@ tags : django
   ```html
   <form action="" method="post">
       <table>
-          {{ form.as_table}}        
+          {{ form.as_table }}        
       </table>
       <input type = "submit" />
   </form>
@@ -92,7 +92,7 @@ tags : django
 
 - 현재 로그인한 User 객체의 id를 가져오는 방법 
 
-  ```
+  ```python
   user = request.user.id
   # request.user에 값이 없으면 AnonymousUser를 반환한다.
   # if request.user.is_authenticated(): 로 로그인 되었는지 아닌지 판별

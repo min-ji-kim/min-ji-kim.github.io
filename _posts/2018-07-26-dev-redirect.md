@@ -2,7 +2,7 @@
 layout: post
 title: .dev redirect 해결하기(Ubuntu)
 categories : TIL
-tags : 환경설정
+tags : etc
 ---
 
 ## .dev redirect 해결하기(Ubuntu)
@@ -24,6 +24,7 @@ Chrome 63 version (17년 12월 출시)이상 사용 시 도메인이 .dev나 .fo
 
 위 사이트에서 61.0.3163.79 클릭하여 다운로드 폴더에 설치 후 명령어 실행 
 
-~$ cd Downloads
+​	~$ cd Downloads
 
-~/Downloads$ sudo dpkg -i chrome64_61.0.3163.79.deb
+​	~/Downloads$ sudo dpkg -i chrome64_61.0.3163.79.deb
+
